@@ -1,0 +1,1 @@
+FileGuard sample. Change this line and verify the directory again.
